@@ -26,4 +26,4 @@
 #number = 10
 #number = 10 + 7
 #number += 7
-#print(number)
+print(number)
